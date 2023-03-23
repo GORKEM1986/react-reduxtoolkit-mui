@@ -1,4 +1,4 @@
-https://react-reduxtoolkit-mui.netlify.app/login
+https://react-reduxtoolkit-mui.netlify.app
 
 
 
